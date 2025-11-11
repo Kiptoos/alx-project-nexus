@@ -107,10 +107,10 @@ alx-project-nexus/
 ---
 
 ## 🧑‍💻 Author
-**[Your Name]**  
+**Stephen Kiptoo**  
 ProDev Backend Engineering Learner  
-GitHub: [yourusername](https://github.com/yourusername)  
-Discord: `@yourdiscordhandle`
+GitHub: [yourusername](https://github.com/Kiptoos)  
+Discord: `@yourdiscordhandle](https://discord.com/channels/1412156884277792970/1412156885624295566`
 
 ---
 
